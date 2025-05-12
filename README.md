@@ -86,5 +86,5 @@ This model empowers organizations to design targeted campaigns, enhance customer
    pip install -r requirements.txt
 
 
-##📬 Contact
+📬 Contact
 For collaboration or queries: Shreysth Goyal 📧 [shreysthkumar@gmail.com]
